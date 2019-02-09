@@ -1,0 +1,5 @@
+Ricardo;1200.23
+Katita;345.33
+Heloisa;4500.45
+Patricia;1100.23
+Albertina;345.23
